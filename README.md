@@ -12,7 +12,9 @@ Prerequisites:
 
         Install :   hortonworks-sandbox
 
-              Which is VMWare or VirtualBox Image that comes with whole Hadoop Echo System which includes Hadoop (HDFS), Hive,               Pig, MapRedues, Yarn and Ambari UI, Spark , Kafka and so on.
+              hortonworks-sandbox is VMWare or VirtualBox Image that comes with whole Hadoop Echo System which includes Hadoop  
+              (HDFS), Hive, Pig, MapRedues, Yarn and Ambari UI, Spark , Kafka and so on.
+              
              
               https://hortonworks.com/tutorial/hortonworks-sandbox-guide/
       
