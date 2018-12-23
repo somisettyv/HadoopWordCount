@@ -49,7 +49,7 @@ Prerequisites:
            Execute the MapReduce Program:
                 Navigate to the folder where have your wordcount-0.jar file
                 
-                 set $CLASSPTH=.:$CALSSPATH   
+                 export $CLASSPATH=.:$CLASSPATH   
                  hadoop jar wordcount-0.jar org.WordCount /user/venky/wordcount/input/*.txt /user/venky/wordcount/output/
            
                   Check the output folder /user/venky/wordcount/output/, you can see two files 
